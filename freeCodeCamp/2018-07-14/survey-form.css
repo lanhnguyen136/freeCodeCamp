@@ -1,0 +1,23 @@
+.body-custom{
+    background-color: rgb(184, 236, 236);
+}
+#form-outer{
+    background-color: white;
+    margin: 0 150px;
+    border-radius: 4px;
+    padding: 30px;
+}
+.form-control{
+    width: 70%;
+}
+#dropdown{
+    height: 35px;
+    width: 140px;
+    padding: 5px;
+    
+    border: 1px solid #c0c0c0;
+    border-radius: 2px;
+}
+#comments{
+    width: 280px;
+}
